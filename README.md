@@ -12,8 +12,7 @@ Aplicativo desenvolvido para um desafio técnico com um campo de informação e 
  - Expo
  - TypeScript
 
-### Testes automatizados
-
-Para os testes automatizados foi utilizado o framework [Appium](https://appium.io/)
+### Teste automatizado
+- Para os testes automatizados foi utilizado o framework [Appium](https://appium.io/)
 com a criação de um script (/src/tests/teste_app.py) na linguagem de programação Python.
 
